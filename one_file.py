@@ -1,8 +1,8 @@
-import this
+# import this
 
 def hello():
-    print("hi, world!")
+    return "hi, world!"
 
 if __name__ == "__main__":
-    print("test starts:...")
+    #print("test starts:...")
     hello()
